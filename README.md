@@ -75,5 +75,14 @@ The trained Random Forest model is saved as:
 
 ```loan_approval_random_forest.pkl```
 
+This allows the trained model to be reused later without training it again.
+
+
+### Project Workflow
+
+
+
+
+
 
 
