@@ -68,6 +68,9 @@ The output can be:
 - **Approved** 
 - **Rejected**
 
+### Prediction Output
+
+<img src="New_Loan_Prediction_Approved.png" width="500">
 
 ### Model Saving
 
