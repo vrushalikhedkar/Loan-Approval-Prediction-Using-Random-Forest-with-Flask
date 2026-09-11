@@ -65,5 +65,15 @@ After training, the model is used to predict the loan status of a new applicatio
 
 The output can be:
 
-**- Approved**
+**- Approved** <br />
 **- Rejected**
+
+
+### Model Saving
+
+The trained Random Forest model is saved as:
+
+```loan_approval_random_forest.pkl```
+
+
+
