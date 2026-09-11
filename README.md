@@ -105,5 +105,6 @@ This allows the trained model to be reused later without training it again.
 
 ### Conclusion
 
+This project demonstrates how Random Forest Classification can be used for loan approval prediction and how a trained Machine Learning model can be saved for future use or deployment.
 
 
