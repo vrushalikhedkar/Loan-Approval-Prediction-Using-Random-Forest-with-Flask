@@ -21,7 +21,7 @@ The project includes data preprocessing, categorical data encoding, train-test s
 
 ### Machine Learning Algorithm
 
-**Random Forest Classifier**
+***Random Forest Classifier***
 
 Random Forest is an Ensemble Learning algorithm that combines multiple Decision Trees to make a final classification prediction.
 
@@ -43,3 +43,11 @@ In this project:
 - Check and remove duplicate rows
 - Convert categorical columns using ```pd.get_dummies()```
 - Convert Loan Status: ```Y``` = Approved and ```N``` = Rejected
+
+### Model Evaluation
+
+The model is evaluated using:
+
+- Accuracy
+- Confusion Matrix
+- Classification Report
