@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 dataset = pd.read_csv("loan_approval.csv")
 
-print("Dataset Shape:")
+print("Dataset Shape:") 
 print(dataset.shape)
 
 
