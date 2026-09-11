@@ -65,8 +65,8 @@ After training, the model is used to predict the loan status of a new applicatio
 
 The output can be:
 
-- Approved <br />
-- Rejected
+- **Approved** 
+- **Rejected**
 
 
 ### Model Saving
