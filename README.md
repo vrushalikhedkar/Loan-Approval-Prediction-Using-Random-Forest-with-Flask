@@ -80,6 +80,27 @@ This allows the trained model to be reused later without training it again.
 
 ### Project Workflow
 
+1.  Load the dataset
+
+2.  Check and clean the data
+
+3.  Encode categorical features
+
+4.  Separate features and target
+
+5.  Split data into training and testing sets
+
+6.  Train Random Forest Classifier
+
+7.  Predict test data
+
+8.  Evaluate the model
+
+9.  Visualize the confusion matrix
+
+10.  Predict a new loan application
+
+11.  Save the trained model
 
 
 
