@@ -57,3 +57,13 @@ The model is evaluated using:
 The confusion matrix shows the correct and incorrect predictions made by the model.
 
 <img src="confusion_Matrix_grph.png" width="500">
+
+
+### New Loan Application Prediction
+
+After training, the model is used to predict the loan status of a new application.
+
+The output can be:
+
+**- Approved**
+**- Rejected**
