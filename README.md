@@ -51,3 +51,9 @@ The model is evaluated using:
 - Accuracy
 - Confusion Matrix
 - Classification Report
+
+### Confusion Matrix
+
+The confusion matrix shows the correct and incorrect predictions made by the model.
+
+<img src="confusion_Matrix_grph.png" width="500">
