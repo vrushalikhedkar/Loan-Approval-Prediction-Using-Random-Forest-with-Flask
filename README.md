@@ -26,7 +26,7 @@ The project includes data preprocessing, categorical data encoding, train-test s
 Random Forest is an Ensemble Learning algorithm that combines multiple Decision Trees to make a final classification prediction.
 
 
-In this project:
+*In this project:*
 
 - 100 Decision Trees are used.
 - Categorical features are converted into numerical form using One-Hot Encoding.
